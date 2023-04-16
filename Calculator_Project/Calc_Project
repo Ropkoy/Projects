@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int Main ()
+{
+int num1
+int num2
+printf("Enter first number: ")
+scanf("%d", &num1)
+printf("Enter second number: ")
+scanf("%d", &num2)
+printf("Answer: %d", num1 + num2)
+Return o;
+}
